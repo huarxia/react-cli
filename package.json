@@ -1,8 +1,8 @@
 {
-  "name": "壹点壹滴公众号",
+  "name": "react-cli",
   "version": "1.0.0",
-  "description": "壹点壹滴公众号",
-  "author": "liubiao <liubiao@ddweilai.com>",
+  "description": "react-cli 脚手架",
+  "author": "花夏 <huaxia@huar.love>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
