@@ -1,7 +1,3 @@
-# hbsq
-
-> 壹点壹滴公众号
-
 ## Build Setup
 
 ``` bash
